@@ -1,0 +1,14 @@
+{
+  "cars": [
+    {
+      "model": "Lexus lx 300",
+      "price": "35000$",
+      "video": "https://www.lexus.com/content/dam/lexus/videos/models/is/2022/500-Hero.mp4",
+      "image1": "https://toyota.scene7.com/is/image/toyota/is?wid=240&hei=140&fmt=png-alpha",
+      "image2": "https://www.lexus.com/content/dam/lexus/images/models/is/2022/visualizer/300/exterior/18-inch-split-five-spoke-alloy-wheels/eminent-white-pearl/large-1.jpg",
+      "image3": "https://www.lexus.com/content/dam/lexus/images/models/is/2022/visualizer/300/exterior/18-inch-split-five-spoke-alloy-wheels/eminent-white-pearl/large-2.jpg",
+      "image4": "https://www.lexus.com/content/dam/lexus/images/models/is/2022/visualizer/300/exterior/18-inch-split-five-spoke-alloy-wheels/eminent-white-pearl/large-3.jpg",
+      "id": 1
+    }
+  ]
+}
